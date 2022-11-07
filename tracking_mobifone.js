@@ -1,7 +1,7 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
 // icon-color: deep-brown; icon-glyph: magic;
-const token = "eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJCMkEyQjUyNi1DODU2LTRENDgtODFCNy0yRjBEQzZFMTI2MTgiLCJpYXQiOjE2MDg4MTI3OTgsInN1YiI6IiIsImlzcyI6IjA5MzEzOTIyNjAifQ.vyARFO6CZ51R8aiygUrYAci9t2rJZsZ5QSPWL9yuPww";
+const token = "";
 
 //let fm = FileManager.iCloud();
 const bgCircleColor = new Color("4d4d4d");
